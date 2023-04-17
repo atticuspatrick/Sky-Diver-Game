@@ -1,3 +1,7 @@
+//
+// Created by Alex Vokey
+//
+
 #include "human.h"
 
 Human::Human() {
